@@ -82,14 +82,12 @@ Extraction of insights on key factors for a second date
 ## Closed-source projects  
  
 
-<img align="left" width="275" height="160" src="https://github.com/levist7/portfolio/blob/main/imgs/signal_project.JPG"> **Python tools on spectrum compatible record selection and modification with cycle-and-shift algorithm**  
+*  **Python tools on spectrum compatible record selection and modification with cycle-and-shift algorithm**  
 > Domains: algorithm development, automation, optimization, large data sets, data analytics, signal processing  
 [Manuscript on its development](https://tel.archives-ouvertes.fr/tel-01809010)  
->    
-    
-#
 
-<img align="left" width="275" height="160" src="https://github.com/levist7/portfolio/blob/main/imgs/pconcrete_project.JPG"> **ALCAMBER - Software package providing improved estimates of camber in concrete bridge girders**  
+
+* **ALCAMBER - Software package providing improved estimates of camber in concrete bridge girders**  
 > Domains: user interface, debugging, predictive models, visual basic, visual studio  
 [Book chapter with a summary on its development](https://link.springer.com/chapter/10.1007/978-3-030-59169-4_6)  
 ➜ [App on Demand](https://eng.auburn.edu/research/centers/hrc/hrc-info-pages/software/alcamber) 
@@ -97,10 +95,9 @@ Extraction of insights on key factors for a second date
 
 ## Micro Projects
 
+* **[Big Data Analytics w/ Hadoop and Apache Spark](https://github.com/levist7/Spark_Big_Data_Project)**  
+> A project on combined capabilities of Hadoop and Apache Spark on data analytics of a student score dataset
 
-**[Big Data Analytics w/ Hadoop and Apache Spark](https://github.com/levist7/Spark_Big_Data_Project)**
-A project on combined capabilities of Hadoop and Apache Spark on data analytics of a student score dataset
-
-**[C++ Elementary-Level Projects](https://github.com/levist7/CPP_Elementary_Projects)**
-Learning material for C++  
+*  **[C++ Elementary-Level Projects](https://github.com/levist7/CPP_Elementary_Projects)**  
+> Learning material for C++  
 
