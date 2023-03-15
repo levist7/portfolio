@@ -6,7 +6,7 @@ This portfolio a compilation of  Data Science and Data Analysis projects that I 
 
 #
 
-<img align="left" width="275" height="175" src="https://github.com/levist7/portfolio/blob/main/imgs/bidding_project.JPG"> **[Civil Work Bidding Price Prediction in San Francisco. AI-Powered](https://github.com/levist7/Civil-Work-Bidding-And-Investment-Helper)**
+<img align="left" width="275" height="200" src="https://github.com/levist7/portfolio/blob/main/imgs/bidding_project.JPG"> **[Civil Work Bidding Price Prediction in San Francisco. AI-Powered](https://github.com/levist7/Civil-Work-Bidding-And-Investment-Helper)**
 
  Based on machine learning algorithms, it helps users estimating construction cost of future housing or appartment projects in San Francisco, California.      
 > Domains: supervised machine learning, feature engineering, data visualization, model performances, construction cost, investment, app deployment  
@@ -29,7 +29,7 @@ Building a credit risk model by using Loan Data to provide a scorecard and a pip
 
 #
 
-<img align="left" width="275" height="150" src="https://github.com/levist7/portfolio/blob/main/imgs/uber_project.JPG"> **[Hotspot Zone Segmentation in Uber Pickup Data](https://github.com/levist7/UBER_Pickups_Project)**  
+<img align="left" width="275" height="130" src="https://github.com/levist7/portfolio/blob/main/imgs/uber_project.JPG"> **[Hotspot Zone Segmentation in Uber Pickup Data](https://github.com/levist7/UBER_Pickups_Project)**  
 
 Creation of pipelines that determine the hot-zones guiding UBER drivers for optimal pickups  
 > Domains: data analysis, data visualization, unsupervised machine learning, clustering   
@@ -37,7 +37,7 @@ Creation of pipelines that determine the hot-zones guiding UBER drivers for opti
 
 #
 
-<img align="left" width="275" height="150" src="https://github.com/levist7/portfolio/blob/main/imgs/tweet_project.JPG"> **[Disaster Tweet Analysis with Natural Language Processing](https://github.com/levist7/NLP_Disaster_Tweet_Analysis)**  
+<img align="left" width="275" height="125" src="https://github.com/levist7/portfolio/blob/main/imgs/tweet_project.JPG"> **[Disaster Tweet Analysis with Natural Language Processing](https://github.com/levist7/NLP_Disaster_Tweet_Analysis)**  
 
 Building a deep learning model that predicts which Tweets talks about real disasters and which ones do not  
 > Domains: natural language processing,spacy, tokenizing, deep learning, RNN, GRU, LSTM, word clouds   
@@ -45,7 +45,22 @@ Building a deep learning model that predicts which Tweets talks about real disas
 
 #
 
-<img align="left" width="275" height="150" src="https://github.com/levist7/portfolio/blob/main/imgs/youtube_project.JPG"> **[YouTube Comment Classifier](https://github.com/levist7/YouTube_Spam_Comments)**  
+<img align="left" width="275" height="125" src="https://github.com/levist7/portfolio/blob/main/imgs/youtube_project.JPG"> **[YouTube Comment Classifier](https://github.com/levist7/YouTube_Spam_Comments)**  
+
+Trained Naïve Bayes algorithms to classify spam comments in Youtube videos  
+> Domains: natural language processing, vectorizing, machine learning, confusion matrix  
+  
+#
+
+<img align="left" width="275" height="125" src="https://github.com/levist7/portfolio/blob/main/imgs/youtube_project.JPG"> **[YouTube Comment Classifier](https://github.com/levist7/YouTube_Spam_Comments)**  
+
+Trained Naïve Bayes algorithms to classify spam comments in Youtube videos  
+> Domains: natural language processing, vectorizing, machine learning, confusion matrix  
+  
+#
+
+
+<img align="left" width="275" height="125" src="https://github.com/levist7/portfolio/blob/main/imgs/youtube_project.JPG"> **[YouTube Comment Classifier](https://github.com/levist7/YouTube_Spam_Comments)**  
 
 Trained Naïve Bayes algorithms to classify spam comments in Youtube videos  
 > Domains: natural language processing, vectorizing, machine learning, confusion matrix  
@@ -53,17 +68,22 @@ Trained Naïve Bayes algorithms to classify spam comments in Youtube videos
 #
 ---
 ## Closed-source projects  
-➜ Python tools on spectrum compatible record selection and modification with cycle-and-shift algorithm  
+
+# 
+
+<img align="left" width="275" height="175" src="https://github.com/levist7/portfolio/blob/main/imgs/signal_project.JPG"> **Python tools on spectrum compatible record selection and modification with cycle-and-shift algorithm**  
 > Domains: algorithm development, automation, optimization, large data sets, data analytics, signal processing  
-* [Manuscript on its development](https://tel.archives-ouvertes.fr/tel-01809010)  
+[Manuscript on its development](https://tel.archives-ouvertes.fr/tel-01809010)  
 
-➜ ALCAMBER - Software package providing improved estimates of camber in concrete bridge girders  
-> Domains: user interface, back- and front-end development, debugging, visual basic, visual studio  
-* [App on demand](https://eng.auburn.edu/research/centers/hrc/hrc-info-pages/research/alcamber)  
-* [Manuscript with details on its development](https://www.researchgate.net/publication/363336985_Predicting_Time-Dependent_Deformations_in_Prestressed_Concrete_Girders)
-or [book chapter with summary on its development](https://link.springer.com/chapter/10.1007/978-3-030-59169-4_6)  
+#
 
-<br />
+<img align="left" width="275" height="175" src="https://github.com/levist7/portfolio/blob/main/imgs/pconcrete_project.JPG"> **ALCAMBER - Software package providing improved estimates of camber in concrete bridge girders**  
+> Domains: user interface, debugging, predictive models, visual basic, visual studio  
+[Book chapter with a summary on its development](https://link.springer.com/chapter/10.1007/978-3-030-59169-4_6)  
+➜ [App on Demand](https://eng.auburn.edu/research/centers/hrc/hrc-info-pages/software/alcamber) 
+
+
+---
 
 ## Small Projects
 
