@@ -1,10 +1,25 @@
 # Data Science Portfolio  
-This portfolio a compilation of  Data Science and Data Analysis projects that I have done for academic and research purposes. 
+This portfolio a compilation of data projects that I have done for research and learning purposes.  
 
+## Skills
+
+#### Currently using 💻
+**Methodologies**: Data analysis, machine learning, deep learning, natural language processing, statistics, A/B testing, experiment design   
+**Languages**: Python, SQL  
+**Libraries**: Pandas, Numpy, pySpark, Scrapy, MySQL, PostgreSQL, Matplotlib, Plotly, Sklearn, Tensorflow, Keras  
+**Deployment**: Streamlit, Docker, Heroku  
+**Framework**: Databricks, Tableau, AWS, VSCode, Jupyter Notebook, Google Colab, Git and GitHub  
+#### Learning 🏗️  
+**Language**: C++  
+**Cloud**: Google Cloud Computing  
+**Framework**: MLFlow, PowerBI    
+#### Past tech ⌛  
+Visual Basic, some VBA, some Matlab, little Fortran90.  
+Scripting for finite element analysis software such as Ansys APDL, Opensees and CAST3M  
 
 ## Projects 🧐  
 
-<img align="left" width="275" height="210" src="https://github.com/levist7/portfolio/blob/main/imgs/bidding_project.JPG"> **[Civil Work Bidding Price Prediction in San Francisco. AI-Powered](https://github.com/levist7/Civil-Work-Bidding-And-Investment-Helper)**
+<img align="left" width="275" height="190" src="https://github.com/levist7/portfolio/blob/main/imgs/bidding_project.JPG"> **[Civil Work Bidding Price Prediction in San Francisco. AI-Powered](https://github.com/levist7/Civil-Work-Bidding-And-Investment-Helper)**
 
  Based on machine learning algorithms, it helps users estimating construction cost of future housing or appartment projects in San Francisco, California.      
 > Domains: supervised machine learning, feature engineering, data visualization, model performances, construction cost, investment, app deployment  
@@ -50,27 +65,27 @@ Trained Naïve Bayes algorithms to classify spam comments in Youtube videos
   
 #
 
-<img align="left" width="275" height="125" src="https://github.com/levist7/portfolio/blob/main/imgs/trip_project.JPG"> **[Kayak Trip Planning: Extract, Transform and Load](https://github.com/levist7/Kayak_ETL_Project)**  
+<img align="left" width="275" height="150" src="https://github.com/levist7/portfolio/blob/main/imgs/trip_project.JPG"> **[Kayak Trip Planning: Extract, Transform and Load](https://github.com/levist7/Kayak_ETL_Project)**  
 
 Development of an app that recommend best destinations in France with up-to-date weather and hotels information  
 > Domains: ETL, web scrapping, data lake, data warehouse, AWS, tourism  
   
 #
 
-
-<img align="left" width="275" height="125" src="https://github.com/levist7/portfolio/blob/main/imgs/sd_project.JPG"> **[Speed Dating Challenge](https://github.com/levist7/SD_ExploratoryDataAnalysis)**  
+<img align="left" width="275" height="140" src="https://github.com/levist7/portfolio/blob/main/imgs/sd_project.JPG"> **[Speed Dating Challenge](https://github.com/levist7/SD_ExploratoryDataAnalysis)**  
 
 Extraction of insights on key factors for a second date  
 > Domains: data cleaning and organizing, exploratory data analysis, insights   
   
 
----
 ## Closed-source projects  
  
 
 <img align="left" width="275" height="175" src="https://github.com/levist7/portfolio/blob/main/imgs/signal_project.JPG"> **Python tools on spectrum compatible record selection and modification with cycle-and-shift algorithm**  
 > Domains: algorithm development, automation, optimization, large data sets, data analytics, signal processing  
 [Manuscript on its development](https://tel.archives-ouvertes.fr/tel-01809010)  
+  
+    
 
 #
 
@@ -80,14 +95,12 @@ Extraction of insights on key factors for a second date
 ➜ [App on Demand](https://eng.auburn.edu/research/centers/hrc/hrc-info-pages/software/alcamber) 
 
 
----
-
-## Small Projects
+## Micro Projects
 
 
+**[Big Data Analytics w/ Hadoop and Apache Spark](https://github.com/levist7/Spark_Big_Data_Project)**
+A project on combined capabilities of Hadoop and Apache Spark on data analytics of a student score dataset
 
-## Skills
+**[C++ Elementary-Level Projects](https://github.com/levist7/CPP_Elementary_Projects)**
+Learning material for C++  
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, A/B Testing, Experimentation Design, 
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL
-- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), MS Excel 
