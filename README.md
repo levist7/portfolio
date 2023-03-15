@@ -12,7 +12,7 @@ This portfolio a compilation of  Data Science and Data Analysis projects that I 
 
 #
 
-<img align="left" width="275" height="19" src="https://github.com/levist7/portfolio/blob/main/imgs/getaround_project.JPG"> **[Getaround Car Rental Price Predictor and Dashboard on a New Feature](https://github.com/levist7/GetAround_EDA_ML_Dashboard_API_Project)**
+<img align="left" width="275" height="190" src="https://github.com/levist7/portfolio/blob/main/imgs/getaround_project.JPG"> **[Getaround Car Rental Price Predictor and Dashboard on a New Feature](https://github.com/levist7/GetAround_EDA_ML_Dashboard_API_Project)**
 
 Deployment of an online API to predict Getaround car rental price with an endpoint containing an XGBoost model and then production of a dashboard to give insights on implementing a new feature
 > Domains: data analysis, dashboard, supervised machine learning, FastAPI, Streamlit and app deployment  
