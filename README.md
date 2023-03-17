@@ -2,10 +2,10 @@
 This portfolio is a compilation of data projects that I have done for research and learning purposes.  
 * [My Linkedin Profile](https://www.linkedin.com/in/lisbiliroglu/en) 
 
-## Skills
+## Skills  
+**Methodologies**: Data analysis, machine learning, deep learning, natural language processing, statistics, experiment design   
 
 #### Currently using 💻
-**Methodologies**: Data analysis, machine learning, deep learning, natural language processing, statistics, A/B testing, experiment design   
 **Languages**: Python, SQL  
 **Libraries**: Pandas, Numpy, pySpark, Scrapy, MySQL, PostgreSQL, Matplotlib, Plotly, Sklearn, Tensorflow, Keras  
 **Deployment**: Streamlit, Docker, Heroku  
