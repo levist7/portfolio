@@ -88,9 +88,9 @@ Extraction of insights on key factors for a second date
 
 
 * **ALCAMBER - Software package providing improved estimates of camber in concrete bridge girders**  
-> Domains: user interface, debugging, predictive models, visual basic, bridge engineering, research
+> Domains: user interface, debugging, predictive models, visual basic, bridge engineering, research  
 [Book chapter with a summary on its development](https://link.springer.com/chapter/10.1007/978-3-030-59169-4_6)  
-➜ [App on Demand](https://eng.auburn.edu/research/centers/hrc/hrc-info-pages/software/alcamber) 
+➜ [App on Demand](https://eng.auburn.edu/research/centers/hrc/software/alcamber) 
   
 
 ## Micro Projects
