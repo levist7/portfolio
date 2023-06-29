@@ -9,11 +9,11 @@ This portfolio is a compilation of data projects that I have done for research a
 **Languages**: Python, SQL  
 **Libraries**: Pandas, Numpy, pySpark, Scrapy, MySQL, PostgreSQL, Matplotlib, Plotly, Sklearn, Tensorflow, Keras  
 **Deployment**: Streamlit, Docker, Heroku  
-**Framework**: Databricks, Tableau, AWS, VSCode, Jupyter Notebook, Google Colab, Git and GitHub  
+**Framework**: Databricks, Tableau, PowerBI, AWS, VSCode, Jupyter Notebook, Google Colab, Git and GitHub  
 #### Learning 🏗️  
 **Language**: C++  
 **Cloud**: Google Cloud Computing  
-**Framework**: MLFlow, PowerBI    
+**Framework**: MLFlow
 #### Past tech ⌛  
 Visual Basic, some VBA, some Matlab, little Fortran90.  
 Scripting for finite element analysis software such as Ansys APDL, Opensees and CAST3M  
