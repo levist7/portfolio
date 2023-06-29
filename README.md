@@ -18,7 +18,7 @@ This portfolio is a compilation of data projects that I have done for research a
 Visual Basic, some VBA, some Matlab, little Fortran90.  
 Scripting for finite element analysis software such as Ansys APDL, Opensees and CAST3M  
 
-## Projects 🧐  
+## Projects 
 
 <img align="left" width="275" height="200" src="https://github.com/levist7/portfolio/blob/main/imgs/bidding_project.JPG"> **[Civil Work Bidding Price Prediction in San Francisco. AI-Powered](https://github.com/levist7/Civil-Work-Bidding-And-Investment-Helper)**
 
