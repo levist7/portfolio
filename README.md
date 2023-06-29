@@ -1,4 +1,4 @@
-# Data Science Portfolio  
+# Portfolio  
 This portfolio is a compilation of data projects that I have done for research and portfolio purposes.  
 * [My Linkedin Profile](https://www.linkedin.com/in/lisbiliroglu/en) 
 
